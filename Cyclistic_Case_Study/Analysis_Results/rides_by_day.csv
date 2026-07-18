@@ -1,0 +1,27 @@
+day_of_week,member_casual,number_of_rides,,,
+0,casual,348042,,,
+0,member,405963,,,
+1,casual,245795,,,
+1,member,535670,,Row Labels,Sum of number_of_rides
+2,casual,244923,,0,754005
+2,member,618815,,casual,348042
+3,casual,235481,,member,405963
+3,member,602616,,1,781465
+4,casual,264555,,casual,245795
+4,member,609106,,member,535670
+5,casual,331433,,2,863738
+5,member,559952,,casual,244923
+6,casual,446405,,member,618815
+6,member,483593,,3,838097
+,,,,casual,235481
+,,,,member,602616
+,,,,4,873661
+,,,,casual,264555
+,,,,member,609106
+,,,,5,891385
+,,,,casual,331433
+,,,,member,559952
+,,,,6,929998
+,,,,casual,446405
+,,,,member,483593
+,,,,Grand Total,5932349
